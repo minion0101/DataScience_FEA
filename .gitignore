@@ -1,0 +1,5 @@
+venv
+!*.ipynb
+!*.csv
+!*.xlsx
+!*.xls
