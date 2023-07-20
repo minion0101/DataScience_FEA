@@ -17,7 +17,7 @@
 　田畑面積のデータ
 - [労働力調査 / 基本集計　全都道府県 地域別 年次](https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&stat_infid=000032045605&statdisp_id=0003009700)  
 　年齢階層別の就業者数のデータ
-- [社会・人口統計体系](https://www.e-stat.go.jp/regional-statistics/ssdsview)
+- [社会・人口統計体系](https://www.e-stat.go.jp/regional-statistics/ssdsview)  
 　有配偶率のデータ
-- [SSDSE（教育用標準データセット）（独立行政法人統計センター）](https://www.nstac.go.jp/use/literacy/ssdse/)
+- [SSDSE（教育用標準データセット）（独立行政法人統計センター）](https://www.nstac.go.jp/use/literacy/ssdse/)  
 　各種消費データを利用するためのデータセット
