@@ -1,6 +1,6 @@
 # DataScience_FEA
  
-### データサイエンス期末課題のソースコード
+### データサイエンス期末課題のソースコード　![](https://img.shields.io/badge/Python-3.11.3-blue)  
 
 #### ノートブックの概要
 - `CropArea.ipynb`
