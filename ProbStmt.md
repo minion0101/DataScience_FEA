@@ -4,11 +4,11 @@
 - そして、将来（5～10年後）のあるべき姿を策定し、その実現に向けて必要な施策を提案してください。また施策の効果を定量的に考察してください。
 
 #### 参考
-- 統計センター SSDSE（教育用標準データセット）
+- 統計センター SSDSE（教育用標準データセット）  
     https://www.nstac.go.jp/use/literacy/ssdse/
-- 気象庁 過去の気象データ・ダウンロード
+- 気象庁 過去の気象データ・ダウンロード  
     https://www.data.jma.go.jp/gmd/risk/obsdl/index.php
-- 埼玉県 彩の国 統計情報館
+- 埼玉県 彩の国 統計情報館  
     https://www.pref.saitama.lg.jp/theme/tokei/
 
 #### レポート作成上の注意

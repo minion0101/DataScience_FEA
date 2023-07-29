@@ -3,7 +3,7 @@
 ### データサイエンス期末課題のソースコード　![](https://img.shields.io/badge/Python-3.11.3-blue)  
 
 #### ノートブックの概要
-- `CropArea.ipynb`
+- `CropArea.ipynb`  
 　第1次産業就業者数と田畑の面積をプロットしたコード
 - `BirthRate.ipynb`  
 　出生数と就業人数，有配偶率の関係を重回帰分析しようとしたコード  ~~（考察しづらかったのでボツ）~~
