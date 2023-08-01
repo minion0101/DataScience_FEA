@@ -1,6 +1,7 @@
+![](https://img.shields.io/badge/Python-3.11.3-blue)
 # DataScience_FEA
  
-### データサイエンス期末課題のソースコード　![](https://img.shields.io/badge/Python-3.11.3-blue)  
+### データサイエンス期末課題のソースコード  
 
 #### ノートブックの概要
 - `CropArea.ipynb`  
